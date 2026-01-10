@@ -34,8 +34,6 @@ This system treats Telegram messages as **events**, not API requests.
 
 ---
 
-## 🏗 Architecture
-
 ## Architecture 🏗
 
 ```text
@@ -55,6 +53,7 @@ WebSocket Server
 │
 ▼
 Mobile / Client Apps (Realtime)
+
 
 ## ⚙️ Core Features
 
