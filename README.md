@@ -53,7 +53,7 @@ WebSocket Server
 │
 ▼
 Mobile / Client Apps (Realtime)
-
+```
 
 ## ⚙️ Core Features
 
